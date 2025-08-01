@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Focus-Competitive%20Programming-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Deep%20Learning-pink?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Actively%20Coding-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Master%20Level-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Master%20blue?style=for-the-badge" />
 </p>
 
 ---
