@@ -18,15 +18,28 @@
 
 ---
 
+## 🧠 Projects
+
+- 📈 **Implied Volatility Predictor** — Trained an XGBoost model on historical option chain data to accurately estimate implied volatilities. Feature engineering was key to performance.
+  
+- 🔗 **Supply Chain Optimizer (LLM)** — Built a system leveraging language models to assist in logistics optimization and decision modeling across supply nodes and routes.
+
+- 🧠 **Neural Network in C** — Implemented a feedforward neural network with backpropagation entirely in C, from scratch — no libraries used.
+---
+
 ## 💻 Tech Stack 
- **Languages**
+
+### 👨‍💻 Languages
+
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-  **Cloud / Backend Services (AWS)**
+### ☁️ Cloud / Backend Services (AWS)
+
 <p>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -36,8 +49,8 @@
   <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lambda-F90?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
 </p>
-  
-  ### 🧩 Embedded & Microcontrollers
+
+### 🔩 Embedded & Microcontrollers
 
 <p>
   <img src="https://img.shields.io/badge/ESP8266-323330?style=for-the-badge&logo=esphome&logoColor=white"/>
@@ -53,13 +66,13 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
+---
 
-**Currently Learning & Expanding**
+## 📚 Currently Learning & Expanding
 
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
 </p>
