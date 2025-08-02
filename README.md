@@ -20,11 +20,11 @@
 
 ## 🧠 Projects
 
-- 📈 **Implied Volatility Predictor** — Trained an XGBoost model on historical option chain data to accurately estimate implied volatilities. Feature engineering was key to performance.
+- 📈 **Implied Volatility Predictor** : Trained an XGBoost model on historical option chain data to accurately estimate implied volatilities. Feature engineering was key to performance.
   
-- 🔗 **Supply Chain Optimizer (LLM)** — Built a system leveraging language models to assist in logistics optimization and decision modeling across supply nodes and routes.
+- 🔗 **Supply Chain Optimizer (LLM)** :  Built a system leveraging language models to assist in logistics optimization and decision modeling across supply nodes and routes.
 
-- 🧠 **Neural Network in C** — Implemented a feedforward neural network with backpropagation entirely in C, from scratch — no libraries used.
+- 🧠 **Neural Network in C** : Implemented a feedforward neural network with backpropagation entirely in C, from scratch — no libraries used.
 ---
 
 ## 💻 Tech Stack 
