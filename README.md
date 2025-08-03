@@ -24,7 +24,7 @@
   
 - 🔗 **Supply Chain Optimizer (LLM)** :  Built a system leveraging language models to assist in logistics optimization and decision modeling across supply nodes and routes.
 
-- 🧠 **Neural Network in C** : Implemented a feedforward neural network with backpropagation entirely in C, from scratch — no libraries used.
+- 🧠 **Neural Network in C** : Implemented a feedforward neural network with backpropagation entirely in C, from scratch, no libraries used.
 ---
 
 ## 💻 Tech Stack 
