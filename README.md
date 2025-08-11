@@ -19,6 +19,7 @@
 ---
 
 ## 🧠 Projects
+PS- None of them are up for deployment right now, I had deployed them on EC2 Prior to this [on hold for a while, undergoing changes]
 
 - 📈 **Implied Volatility Predictor** : Trained an XGBoost model on historical option chain data to accurately estimate implied volatilities. Feature engineering was key to performance.
   
